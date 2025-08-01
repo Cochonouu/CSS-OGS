@@ -1,0 +1,34 @@
+body {
+  background-image: url('https://4kwallpapers.com/images/wallpapers/anime-girl-girly-2048x1536-9793.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.container,
+.page,
+.ui,
+.sidebar,
+.content,
+.card,
+.modal,
+.menu,
+.profile,
+.user-info,
+.user-content {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+  color: #111 !important;
+  border-radius: 12px;
+  padding: 8px;
+}
+
+a, h1, h2, h3, p, span, div {
+  color: #111 !important;
+}
+
+.container,
+.card,
+.page {
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+}
